@@ -11,7 +11,7 @@ There are 7 major component in our code which are
 6. Channel Decoding
 7. Signal Decoding
 
-##Prerequisites Packages
+## Prerequisites Packages
 
 ```
 python3 pip install numpy
