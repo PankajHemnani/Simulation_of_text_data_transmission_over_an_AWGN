@@ -16,5 +16,8 @@ There are 7 major component in our code which are
 ```
 python3 pip install numpy
 ```
-##GUIDE TO USE THE CODE
+## GUIDE TO USE THE CODE
 1. To Pass your Text pass through **TextToBeEncoded** 
+2. You can change the Standard Deviation in CHANNEL NOISE i.e in AWGN (More the Standard Deviation more will be the Errors while Decoding)
+## OUTPUT
+You will get your text parsed and Your output Depends on the Standard Dviation.
