@@ -11,4 +11,10 @@ There are 7 major component in our code which are
 6. Channel Decoding
 7. Signal Decoding
 
+##Prerequisites Packages
 
+```
+python3 pip install numpy
+```
+##GUIDE TO USE THE CODE
+1. To Pass your Text pass through **TextToBeEncoded** 
